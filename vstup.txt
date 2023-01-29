@@ -1,0 +1,3 @@
+Aleš Pomalý:0
+Aleš rychlý:10
+Aleš Ultrarychlý:50

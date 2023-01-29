@@ -1,0 +1,4 @@
+Aleš Pomalý:0
+Aleš rychlý:10
+Petr Rychlý:10
+Petr Pomalý:1
